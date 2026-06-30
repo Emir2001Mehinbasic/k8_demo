@@ -1,0 +1,6 @@
+node_modules
+npm-debul.log
+Dockerfile
+.dockerignore
+.git
+.gitignore
